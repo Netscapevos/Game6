@@ -1,1 +1,5 @@
-# Game6
+This project is a black-and-white version of the classic Atari Breakout game, developed using HTML, CSS, and JavaScript. The game features a minimalistic design, with monochromatic visuals that emphasize simplicity while preserving the classic gameplay experience. HTML is used to structure the game elements, CSS styles the bricks, paddle, and ball, and JavaScript handles the game logic, including movement, collision detection, and score tracking.
+
+The development process involved creating a responsive paddle and a bouncing ball using JavaScript. Collision detection was implemented to break the bricks when the ball hits them, as well as to bounce the ball off the walls and paddle. CSS flexbox was used to align the bricks in a grid, while JavaScript dynamically updates the game state during play. The game is fully interactive and requires no additional frameworks, making it lightweight and browser-friendly.
+
+To play the game, open the HTML file in any modern browser. Use the left and right arrow keys on your keyboard to move the paddle and prevent the ball from falling off the screen. The objective is to break all the bricks by bouncing the ball off the paddle. The game is a fun way to explore basic game mechanics and demonstrate the power of JavaScript for interactive projects.
